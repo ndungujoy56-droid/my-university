@@ -65,5 +65,5 @@ This project was developed for learning and demonstration purposes to apply prac
 ---
 
 **Project Name:** My University Management System  
-**Developer:** [Your Name]  
+**Developer:** Ndungu Joy
 **Year:** 2026
